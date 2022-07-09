@@ -4,4 +4,5 @@ How to Run The program
 2.	 Open the PatientBackend folder in terminal and run composer install or composer update and then php artisan serve to run the project.
 
 	Requires composer and PHP to be installed in the machine globally
+
 3.	open PatientFrontend folder in terminal and run ‘npm install’ and then run ‘npm start’
