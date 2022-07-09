@@ -9,8 +9,11 @@ How to Run The program
 
 
  Admin User:  system@gmail.com   123456
+ 
  reception:   reception@gmail.com   123456
+ 
  medical department:  medical@gmail.com   123456
+ 
  Insurrance:  insurance@gmail.com    123456
  
 
